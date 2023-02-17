@@ -1,0 +1,15 @@
+@charset "UTF-8"
+*{
+    box-sizing: border-box;
+}
+html,body{
+    height:100%;
+}
+html{
+    font-size:28vw;
+}
+/*header*/
+header{
+    height:0.49rem;
+    background-color: brown;
+}
